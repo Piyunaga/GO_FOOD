@@ -10,5 +10,5 @@ Developed a smooth user interface to facilitate food selection and order placeme
   Incorporated a comprehensive order history feature allowing users to conveniently view their previous orders.
 
   ## TECH STACK USED
-  React,Express,Node JS,MongoDB,VsCode
+  React,Express,Node JS,MongoDB,Bootstrap,VsCode 
 
